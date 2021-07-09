@@ -1,2 +1,4 @@
 # totolotek
-lottery numbers generator
+lottery numbers generator: Lotto, Mini Lotto
+
+ABSOLUTELY NO WARRANTY OF WINNING ANY LOTTERY
