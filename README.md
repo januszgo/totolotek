@@ -1,0 +1,2 @@
+# totolotek
+lottery numbers generator
